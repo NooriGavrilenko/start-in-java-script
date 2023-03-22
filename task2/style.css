@@ -1,0 +1,14 @@
+p {
+    color: rgb(140, 41, 194);
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400ps;
+    background-color: antiquewhite;
+
+    border-width: 9px;
+    border-style: groove;
+    border-color: black yellow;
+    width: 100px;
+}

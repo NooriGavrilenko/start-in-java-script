@@ -1,0 +1,9 @@
+p {
+    color: rgb(140, 41, 194);
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400ps;
+    background-color: antiquewhite;
+}
